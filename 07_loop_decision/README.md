@@ -1,7 +1,7 @@
 Program Title: Count the Number of 9s in an Integer
 Category: Loop with Decision
 
-Textbook Reference :Chapter 3, Exercise 3.38
+Textbook Reference : Deitel &Deitel, C How to Program,9th Edition,Chapter 3, Exercise 3.38
 
  Description
 Write a C program that reads an integer containing 5 digits or fewer and determines how many of its digits are 9s. The program also checks whether the entered number is valid and displays an error message if the number contains more than 5 digits.

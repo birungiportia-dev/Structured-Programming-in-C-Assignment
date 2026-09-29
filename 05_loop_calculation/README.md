@@ -1,7 +1,7 @@
 Program Title: Natural Numbers Arithmetic
 Category: Loop with Calculation
 
-Textbook Reference: Chapter 4, Exercise 4.13
+Textbook Reference: Deitel &Deitel, C How to Program,9th Edition, Chapter 4, Exercise 4.13
 
  Description
 Write a C program that calculates and displays the sum, the sum of the squares, and the sum of the cubes of all natural numbers from 1 up to a number entered by the user.

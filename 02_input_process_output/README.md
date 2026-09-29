@@ -1,7 +1,7 @@
 Program Title: Product of Three Integers
 Category: Input, Process and Output
 
-Textbook Reference: Chapter 2, Exercise 2.5
+Textbook Reference:  Deitel &Deitel, C How to Program,9th Edition,Chapter 2, Exercise 2.5
 
 Problem Description
 Write a C program that reads three integers from the user, calculates their product, and displays the result.

@@ -1,7 +1,7 @@
 Program Title: Sum and Average of a Sequence of Integers
 Category: Loop with User Input
 
-Textbook Reference :Chapter 4, Exercise 4.9
+Textbook Reference : Deitel &Deitel, C How to Program,9th Edition,Chapter 4, Exercise 4.9
 
 Description
 Write a C program that first reads the number of integers the user wants to enter. The program then reads each integer one at a time, calculates their total sum, and determines their average.

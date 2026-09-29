@@ -1,7 +1,7 @@
 Program Title: Table of Values Using a Loop
 Category :Basic Loop
 
-Textbook Reference:Chapter 3, Exercise 3.24
+Textbook Reference: Deitel &Deitel, C How to Program,9th Edition,Chapter 3, Exercise 3.24
 
 Problem Description
 Write a C program that uses a loop to print a table of values for the numbers 1 to 10. The table displays each number (N), its square (N²), its cube (N³), and its fourth power (N⁴). The tab escape sequence \t is used to separate the columns.

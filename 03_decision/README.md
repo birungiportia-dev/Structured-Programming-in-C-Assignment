@@ -1,7 +1,7 @@
 Program Title: Odd or Even
 Category: Decision Statements
 
-Textbook Reference :Chapter 2, Exercise 2.22
+Textbook Reference : Deitel &Deitel, C How to Program,9th Edition,Chapter 2, Exercise 2.22
 
 Problem Description
 Write a C program that reads an integer and determines whether the number is even or odd.
